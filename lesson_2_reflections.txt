@@ -10,3 +10,6 @@
 
 5. How do the diagrams help you visualize the branch structure?
    Diagrams give summary history of parent-child relationships in git tree.
+
+6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+   Merging two branches produces a git tree combining both branches with the last commit being a union of all diffs by time sequence.
