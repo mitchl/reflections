@@ -6,3 +6,5 @@ local?
 your remote repository?
    Mainly so you can control when to sync the file at correct times to reflect the changes you want. 
 You don't want to be working on a file that may be pulled in before changes have been committed. 
+
+3. Describe the differences between forks, clones, and branches. When would you use one instead of another?
