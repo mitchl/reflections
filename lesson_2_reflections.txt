@@ -13,3 +13,7 @@
 
 6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
    Merging two branches produces a git tree combining both branches with the last commit being a union of all diffs by time sequence.
+
+7. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+   PRO: Makes best effort automatic merge based on time line of diff's
+   CON: On common lines in same files but in different commits, will stop short and requires manual interaction.
